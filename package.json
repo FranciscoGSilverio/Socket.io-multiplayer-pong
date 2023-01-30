@@ -1,0 +1,23 @@
+{
+  "name": "Socket.io-multiplayer-pong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranciscoGSilverio/Socket.io-multiplayer-pong.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FranciscoGSilverio/Socket.io-multiplayer-pong/issues"
+  },
+  "homepage": "https://github.com/FranciscoGSilverio/Socket.io-multiplayer-pong#readme",
+  "dependencies": {
+    "socket.io": "^4.5.4"
+  }
+}
